@@ -9,13 +9,13 @@ const SUBJECTS = [
         active: true
     },
     {
-    id: "moi_truong_va_con_nguoi",
+        id: "moi_truong_va_con_nguoi",
         name: "Môi Trường & Con Người",
         icon: "🌱",
         desc: "Ôn tập kiến thức Môi trường, Hệ sinh thái, Khí quyển & Biến đổi khí hậu",
         active: true
     },
-        {
+    {
         id: "tu_tuong_ho_chi_minh",
         name: "Tư Tưởng Hồ Chí Minh",
         icon: "🇻🇳",
@@ -27,14 +27,14 @@ const SUBJECTS = [
         name: "Giải Tích & Hình Học",
         icon: "📐",
         desc: "Ôn tập kiến thức Toán Đại số & Hình học",
-        active: false 
+        active: false
     },
     {
         id: "tieng_anh",
         name: "Tiếng Anh",
         icon: "🇬🇧",
         desc: "Ngữ pháp và từ vựng Tiếng Anh",
-        active: false 
+        active: false
     }
 ];
 
